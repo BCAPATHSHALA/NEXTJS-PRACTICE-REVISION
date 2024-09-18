@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ALL ABOUT THE NEXT.JS PRACTICE REVISION
 
-## Getting Started
+This repository provides a comprehensive guide to understanding basics of next.js and using middleware in Next.js applications.
 
-First, run the development server:
+## Middleware Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Middleware in Next.js allows you to execute code before a request reaches its intended route. It enables you to:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Screenshots
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BCAPATHSHALA/NEXTJS-PRACTICE-REVISION/refs/heads/main/ALL%20ABOUT%20THE%20NEXT.png" alt="All About the Next.js"/>
+</div>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## How to play with CRUD operations on Cookies Storage, Local Storage, Session Storage, HTTP Request, HTTP Request Header
 
-## Learn More
+[How to play with CRUD operations on Cookies Storage, Local Storage, Session Storage, HTTP Request, HTTP Request Header](https://github.com/BCAPATHSHALA/Full-Stack-Todo-App-Cohort-3.0)
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BCAPATHSHALA/Full-Stack-Todo-App-Cohort-3.0/main/COOKIE%2C%20SESSION%2C%20LOCAL%20STORAGE%2C%20AND%20REQ%20HEADERS.png" alt="Todo App Screenshot">
+</div>
